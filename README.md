@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Thaynara 👩
 
-- 📝 Atualmente estou estudando programação e trabalhando com React e Node.js
+- 📝 Atualmente estou estudando programação
 - 😄 Pronomes: ela/dela
 - ⚡ Um pouco além da programação: gosto muito de arte e fotografia, adoro caminhar e fico inspirada ao ouvir alguém falar de forma apaixonada sobre algo que gosta
 
