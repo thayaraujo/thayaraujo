@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Thaynara 👩
 
-- 📝 Atualmente estou estudando programação
-- 😄 Pronomes: ela/dela
-- ⚡ Um pouco além da programação: gosto muito de arte e fotografia, adoro caminhar e fico inspirada ao ouvir alguém falar de forma apaixonada sobre algo que gosta
+- 📝 Atualmente estou estudando programação, com foco em JavaScript, React e NodeJs, e também me interesso muito por C#.
+- 😄 Pronomes: ela/dela.
+- ⚡ Um pouco além da programação: gosto muito de arte e fotografia, adoro caminhar e fico inspirada ao ouvir alguém falar com entusiasmo sobre algo que gosta.
 
 <div>
   <a href="https://github.com/thayaraujo">
