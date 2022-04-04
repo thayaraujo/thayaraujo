@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Thaynara 👩
 
-- 📝 Atualmente estou estudando programação, com foco em .NET e C#.
+- 📝 Atualmente estou estudando programação e trabalhando como fullstack, utilizando .NET, C# e Angular.
 - 😄 Pronomes: ela/dela.
 - ⚡ Um pouco além da programação: gosto muito de arte e fotografia, adoro caminhar e fico inspirada ao ouvir alguém falar com entusiasmo sobre algo que gosta.
 
