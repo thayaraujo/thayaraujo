@@ -19,7 +19,11 @@
 </div>
 
   ##
-  
+
+<div>
+  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/648e1f49779070ae6248a656?variant=dark" alt="roadmap.sh"/></a>
+</div>
+
 <div>
   <a href="https://www.linkedin.com/in/thaynara-araujo/" target="_blank"><img align="center" alt=Thay-LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>
   <a href="mailto:thaynara_araujo1@yahoo.com.br/" target="_blank"><img align="center" alt=Thay-Email" height="30" width="50" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
