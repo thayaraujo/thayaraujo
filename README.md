@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Thaynara 👩
 
-- 📝 Atuo como desenvolvedora RPA e atualmente estou fazendo Pós-Graduação em Automação de Processos RPA e Hiperautomação pela PUC Minas
+- 📝 Atuo como desenvolvedora RPA. Cursei Pós-Graduação em Automação de Processos RPA e Hiperautomação pela PUC Minas e adoro aprender e trabalhar nessa área.
 - 😄 Pronomes: ela/dela.
 - ⚡ Um pouco além da programação: gosto muito de arte e fotografia, adoro caminhar e fico inspirada ao ouvir alguém falar com entusiasmo sobre algo que gosta.
 
